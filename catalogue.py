@@ -11,7 +11,7 @@ def add_item (item, category):
     ------
 
     item:the item to add
-    category: the category stuff into which tp insert things.
+    category: the category stuff into which tp insert things. 124
 
     Return
     -------
@@ -19,4 +19,6 @@ def add_item (item, category):
 
     the number of items in teh collection, after adding the new one.
 
+    """
+        added
     """
